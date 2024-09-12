@@ -12,7 +12,7 @@
         <div class="container">
             <div class="container mt-3">
             <!--form to get the number from the user-->
-            <form action="process.html" method="POST">
+            <form action="process.php" method="POST">
                 <h1 class= "text-bg-info text-dark" style="text-align:center; margin-top:50px; padding:10px" >Prime Number Identifier and Factorial Solver</h1>
                 <div class="container mt-3" style="text-align:center; padding-top:30px">
                     <label for="quantity" class="text-bg-light form-control-lg" style="width:200px">Enter a Number :</label>
